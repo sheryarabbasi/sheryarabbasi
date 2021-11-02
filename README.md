@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheryarabbasi
 - 👀 I’m interested in techno
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on blockchain and network security
+- 🌱 I’m currently learning python and java
+- 💞️ I’m looking to collaborate on enterprise development
 - 📫 How to reach me : sheryarabbasi7@gmail.com
 
 <!---
